@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hiv---primary.py
+inputModule3:
+  class: File
+  path: python/viral-hiv---primary.py
+inputModule4:
+  class: File
+  path: python/hiv-immunodef---primary.py
+inputModule5:
+  class: File
+  path: python/hiv-acquired---primary.py
+inputModule6:
+  class: File
+  path: python/hiv-abnormsnec---primary.py
+inputModule7:
+  class: File
+  path: python/hiv-neoplasm---primary.py
+inputModule8:
+  class: File
+  path: python/parasitic-hiv---primary.py
+inputModule9:
+  class: File
+  path: python/hiv-resulting---primary.py
+inputModule10:
+  class: File
+  path: python/hiv-pneumonia---primary.py
+inputModule11:
+  class: File
+  path: python/multiple-hiv---primary.py
+inputModule12:
+  class: File
+  path: python/hiv-sarcoma---primary.py
+inputModule13:
+  class: File
+  path: python/hiv-lymphoma---primary.py
+inputModule14:
+  class: File
+  path: python/hiv-nonhodgkin---primary.py
+inputModule15:
+  class: File
+  path: python/hiv-unspecified---primary.py
+inputModule16:
+  class: File
+  path: python/hiv-history---primary.py
+inputModule17:
+  class: File
+  path: python/hiv-resulting---secondary.py
+inputModule18:
+  class: File
+  path: python/other-hiv---secondary.py
+inputModule19:
+  class: File
+  path: python/hiv-virus---secondary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
